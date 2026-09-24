@@ -4,6 +4,12 @@ A full-stack customer support ticket management system built as part of the Data
 
 The application allows support teams to create, search, filter, view, update, and add notes to customer support tickets.
 
+## Live Demo
+
+- **Frontend:** https://support-crm-frontend-kqh4.onrender.com
+- **Backend API:** https://support-crm-z7u8.onrender.com
+- **API Documentation:** https://support-crm-z7u8.onrender.com/docs
+
 ## Features
 
 - Create customer support tickets
